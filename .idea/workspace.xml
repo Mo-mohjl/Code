@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69865a06-bc41-4bc3-9fbf-218fc02bafb6" name="Changes" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vue/code-editor-app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/code/CodeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/code/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/code/config/DockerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/code/controller/DaiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/code/dao/IDaiDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/code/po/Dai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/code/service/IDaiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/code/service/impl/DaiServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/code/util/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/config/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/Dai_Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/code/CodeApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../software/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2hg68r1EWwx6JrAIMvn13jh2Nkv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dynamic-thread-pool" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea工程\Code\src\main\resources\mybatis\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CodeApplication">
+    <configuration name="CodeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.code.CodeApplication" />
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.code.CodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_392-corretto-1.8.0_392-f644763e9732-f719d367" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69865a06-bc41-4bc3-9fbf-218fc02bafb6" name="Changes" comment="" />
+      <created>1718003219444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718003219444</updated>
+      <workItem from="1718003220720" duration="2251000" />
+      <workItem from="1718005859868" duration="98000" />
+      <workItem from="1718011529357" duration="4797000" />
+      <workItem from="1718022247281" duration="3913000" />
+      <workItem from="1718094119973" duration="1491000" />
+      <workItem from="1718179745790" duration="4288000" />
+      <workItem from="1718193543850" duration="7421000" />
+      <workItem from="1718247038961" duration="2299000" />
+      <workItem from="1718249752312" duration="831000" />
+      <workItem from="1718250649687" duration="1067000" />
+      <workItem from="1718251771743" duration="153000" />
+      <workItem from="1718279362395" duration="439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Vue/code-editor-app" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="在线代码运行平台" />
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/code/controller/DaiController.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/code/controller/DaiController.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
